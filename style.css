@@ -8,8 +8,8 @@
 .card{
     width: 100%;
     box-shadow: 9px 9px 27px 0px rgba(0, 0, 0, 0.75);
-    -webkit-box-shadow: 9px 9px 27px 0px rgba(0,0,0,0.75);
-    -moz-box-shadow: 9px 9px 27px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 9px 9px 27px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 9px 9px 27px 0px rgba(0, 0, 0, 0.75);  
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -38,3 +38,5 @@
 .card-left > p {
     color: rgb(70, 70, 70);
 }
+
+/*tudo isso passou para o CardNews.js no style.*/
